@@ -1,6 +1,6 @@
 # Proyecto Ejemplo: Gestor de Tareas (Task Manager)
 
-Este es un proyecto completo de aplicación de gestión de tareas usando Laravel como backend y Vue 3 como frontend. Ambos están organizados en carpetas `/backend` y `/frontend`, listos para ser subidos a GitHub.
+Este es un proyecto completo de aplicación de gestión de tareas usando Laravel como backend y Vue 3 como frontend. Ambos están organizados en carpetas `/backend` y `/frontend`.
 
 ---
 
